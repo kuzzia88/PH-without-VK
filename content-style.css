@@ -1,0 +1,14 @@
+/**
+ * @license
+ * Расширение для браузера: ph-without-vk
+ * Copyright (c) 2025 kuzzia88
+ * MIT License
+ */
+
+#age-verification-container {
+    display: none;
+}
+
+#age-verification-wrapper {
+    display: none;
+}

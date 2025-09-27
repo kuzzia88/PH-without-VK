@@ -1,0 +1,20 @@
+/**
+ * @license
+ * Расширение для браузера ph-without-vk
+ * Copyright (c) 2025 kuzzia88
+ * MIT License
+ */
+
+* {
+    color: #fff;
+    font-size: 24px;
+}
+
+body {
+    text-align: center;
+    background-color: #252525;
+}
+
+label {
+    cursor: pointer;
+}
